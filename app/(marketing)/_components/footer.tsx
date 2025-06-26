@@ -9,7 +9,7 @@ export const Footer = () => {
       <Logo />
       <div className='md:ml-auto w-full justify-between md:justify-end flex items-center gap-x-2 text-muted-foreground'>
         <Button variant='ghost' size='sm'>
-          <Link href='https://github.com/CalebAkomaye' target='_blank'>
+          <Link href='https://github.com/calebandcode/emote-notes' target='_blank'>
             <FaGithub className='mr-1 text-sm inline' /> Caleb Akomaye
           </Link>
         </Button>
